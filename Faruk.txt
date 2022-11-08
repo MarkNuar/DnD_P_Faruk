@@ -1,0 +1,145 @@
+Nemico: i demoni che escono da sotto terra (dai corpi seppelliti) 
+    -> i corpi non si seppeliscono, ma si bruciano nelle Pire (protette dai druidi del fuoco selvaggio)
+
+Entità: 
+    Spiriti -> mondo naturale 
+    Fantasmi -> anime dei morti, che non hanno ancora raggiunto il loro obiettivo 
+    Spettri -> anime malvage 
+
+Giocatori: 
+    - Mauro -> Druido del Circolo del Fuoco Selvaggio, Asimaar
+    - Yari -> Paladino, scintilla di Fulramin
+    - Ali -> Warlock, Tabaxi, IemaIa 
+    - Marco -> Ladro Archetipo Fantasma, Owlin 
+
+Faruk
+    Giovane Owlin Ladro Phantom.
+    Simpatico e socievole.
+
+Regno della Notte: 
+    Regno da cui provengono gli Owlin. 
+    Al centro vi è un castello governato da Elfi delle Stelle e della Luna
+    Nel regno della Notte è sempre notte 
+    Un gruppo di Owlin nobili viene illuminato dalla luce della Dea e si dirige a Yeula (regno della Dea)
+
+Casata & Famiglia: 
+    Casata dello Zenith, Famiglia dei Revisori  
+    I Revisori sono degli investigatori che si occupano di far arrivare ovunque, nello stesso modo, la luce della Dea. 
+    Lavorano insieme agli Storici per curare la forma e il modo in cui i testi vengono scritti, ed a volte fanno anche 
+    lavori sporchi, in segreto. 
+
+Storia del Personaggio:
+    Faruk Furvus è un giovane Owlin, ha da poco raggiunto la maggiore età. 
+    Suo padre Jaquan è un Revisore come lui, mentre suo fratello Leeto è passato alla famiglia delle Belle Arti, come musicista. 
+    Sua madre Ariana è sparita quando lui aveva ancora 10 anni. 
+    Di lei si ricorda le mattine (di giorno dormono) passate a raccontargli le storie per addormentarsi, e ogni volta provava una strana sensazione, 
+    come se quelle storie fossero in qualche modo vive, presenti lì con loro. 
+    Sa che un giorno sua madre è sparita, da allora suo padre non ha più sorriso, e suo fratello non ha più parlato (per questo ha iniziato a suonare il flauto)
+
+    Durante un processo di revisione, sua madre, che ha gli stessi poteri del figlio Faruk, è entrata in contatto con lo spirito di un ribelle ucciso 
+    dall' Inquisizione. Lo spirito gli ha rivelato poche e semplici parole "La Dea ci sta accecando, la verità è nascosta là fuori".
+    La madre ha indagato a lungo, fino ad entrare in possesso di informazioni pericolose. In poco tempo la famiglia reale è venuta a sapere di ciò, 
+    ed ha ordinato al marito di lei di ucciderla, altrimenti sarebbero spariti tutti quanti loro. 
+
+    Il padre da allora non ha più sorriso, e il figlio maggiore non ha più parlato, diventando in grado di esprimersi solo con la musica. 
+    Faruk era ancora troppo piccolo per comprendere, per lui la mamma era semplicemente sparita. 
+
+    Tuttavia, ogni mattina, prima di addormentarsi, Faruk percepisce sempre qualcosa, come se ci fosse qualcuno lì con lui, pronto a proteggerlo, 
+    e a mostrargli la via. Dopo ogni riposo riesce sempre ad essere in grado di fare qualcosa di nuovo, per questo lo chiamano anche Faruk il Tuttofare.
+
+    Faruk ha iniziato da pochi mesi il compito di Revisore.
+    Agisce di notte, quando è più facile non essere visti (ed è più sveglio in quanto Owlin). 
+    In quanto revisore, non può condividere con nessuno i casi che tratta, nemmeno con suo Padre, ma per voi lettori, farà una piccola eccezione: 
+
+        Il capo famiglia dei coltivatori, Ruggero Pommis, ha contattato i revisori per notificare la sparizione di una capra ogni notte di Pienaluna. 
+        Il caso sembrava semplice, di poca importanza, per questo mi era stato affidato. 
+
+        Le notti di Pienaluna sono le notti in cui la dea è più generosa, e decide di donarci tanta luce quanta ce ne dona di giorno. 
+        Sono delle notti sacre, in cui è buona usanza rivolgersi verso la luna e ringraziare la Dea una volta in più.  
+        La successiva notte del 13 luglio è una di quelle, ma l'investigazione ha dovuto prendere il posto delle preghiere. 
+        La sparizione di una capra potrebbe aver qualche significato religioso…
+
+        Mi nascosi nei dintorni della capanna delle capre, in attesa di qualche sospetto, finchè, a notte fonda, vidi entrare un ragazzino incappucciato.
+        Lo seguii dentro la capanna, e lo vidi togliersi il cappuccio. Due corna argentee segnarono subito la sua natura: un Presagio. 
+        Per quanto ricordassi, nessuno aveva notificato la presenza di un presagio nella famiglia dei coltivatori...
+
+        Il ragazzino tirò fuori velocemente un coltello e lo passò a fil di spada sul collo di una capra, iniziando a invocare il nome del dio dei demoni: "Marduk". 
+        Per instinto mi feci avanti, pronto a fermare il ragazzo, ma una mano mi fermò, e una voce spezzata dalle lacrime disse: 
+            “Sono Lumer, il coltivatore di questo podere, e lui è Aranix, mio figlio. Chiunque ti abbia mandato, si sbaglia, mio figlio non ha fatto nulla"
+        Il ragazzino alzò gli occhi al cielo, ora iniettati di sangue, e proferì per l'ultima volta il nome del dio dei demoni, per poi cadere in un sonno profondo, affianco al corpo della capra uccisa. 
+        Il padre riprese: 
+            “Mio figlio è un ragazzo normale, non è un problema per me perdere una capra al mese, non ha fatto niente...”.
+        Chiarite le idee gli risposi di tranquillizarsi, e che avrei trovato una soluzione (quanto fui sciocco).
+
+        La mattina seguente feci rapporto al capo famiglia dei Revisori, Veritas (è il suo soprannome, nessuno sa il suo vero nome), che mi rispose così:
+            "Torna con un inquisitore e nascondi tutto, che la Dea sia con loro".
+        Il sangue mi si gelò nelle vene, ma come mi ha insegnato più volte mio padre, non bisogna mai contestare il parere di un superiore. 
+
+        Passai un mese angosciante, sapendo che avrei dovuto uccidere un ragazzino. I giorni diventavano sempre più pesanti, man mano che ci si avvicinava alla prossima Pienaluna. 
+        Avrei voluto poter fermare il tempo e scappare, ma dove? La fuori la Dea non risplende, è pericoloso, non bisogna disobbedire.
+
+        Non bisogna disobbedire.
+        Non bisogna disobbedire...
+
+        Arrivò la successiva Pienaluna. La compagnia dell'inquisitore fu strana, per certi versi confortante. Si chiamava Dodux, ed aveva più esperienza di me. 
+        A suo dire, il caso sarebbe stato una passeggiata, sarebbe bastato solamente un colpo di spada e tutto si sarebbe risolto. 
+        Io avevo molti dubbi in testa, ma annuii. 
+
+        Arrivammo alla capanna, e come un mese prima, ci appostammo in attesa. 
+        Sempre a notte fonda passò lo stesso ragazzino. Dodux mi chiede se fosse lui. Potevo ancora cambiare il destino di quel ragazzo, salvarlo... ma non bisogna disobbedire... 
+            "Si" risposi.
+
+        Come un fulmine Dodux si lanciò verso il ragazzino, ormai dentro la capanna. Io mi misi di pattuglia di fronte all'ingresso. Feci un errore, un grosso errore. 
+        Il padre. 
+
+        Un'ascia nell'oscurità mi passo affianco, tagliandomi molte penne dell'ala destra. Per fortuna riuscii a non prendere in pieno il colpo, e con movimento veloce estrassi il pugnale e lo piantai nel cuore dell'uomo. 
+        Era lui, Lumer, il padre del ragazzo. Sapeva cosa sarebbe successo ed è venuto a proteggere suo figlio. 
+        Perchè un coltivatore avrebbe dovuto usare un'ascia e non la magia della dea? E subito scoprii la riposta: la dea non brillava più in quell'uomo. 
+
+        Dodux usciì dalla capanna, ricoperto di sangue nero pece, sembrava aver visto l’inferno.
+        Non gli dissi nulla, ma dal suo sguardo capii che era successo qualcosa di terribile. 
+    
+        Bruciammo i due corpi in un rito sommario, consacrandoli alla dea. 
+
+        L'uccisione di un presagio può essere essa stessa peggio di un presagio, chissà cosa accadrà. 
+
+        La mattina successiva, giunto negli Uffici Celati, compilai la Copertura e la consegnai nel Pozzo della Verità. 
+
+        Sicuramente non morirà più nessuna pecora, la le mie mani non saranno nemmeno mai più pulite. 
+
+        Incapace di volare tornai sul mio trespolo e mi addormentai, malinconico, e con il nome del demone che continuava a ripetersi nella mia mente.
+
+Lore:
+    La famiglia dei Revisori si trova negli Uffici Celati, nella città alta della capitale. 
+    Si chiamano celati perchè a differenza di qualsiasi altro edificio, è standanrd, spoglio, non attira l'attenzione
+    Ma la gente sa in realtà cosa viene fatto lì 
+    Negli uffici ci sono anche gli archivi segreti, che contengono tutti i segreti. 
+    Quando un revisore completa un caso, scrive il documento di revisione, la Copertura. Questa poi viene custodita nel pozzo della verità, che porta agli archivi segreti. 
+    C'è una persona che gestisce gli archivi segreti.
+
+    I problemi risolti da un revisore, rimangono segreti. Io non dico agli altri revisori cosa scopro. 
+    È peccato capitale condividere i segreti 
+
+Collegamenti:
+    L’amore di un fratello - Faruk & Yamaya 
+        Faruk era in leggero ritardo per la lezione del fratello Leeto e correndo riuscì ovviamente a scontrarsi con una persona facendole cadere di mano una manciata di spartiti musicali.
+        “Mi dispiace tantissimo” e senza pensarci due volte il gufetto inizia a raccoglierle i vari fogli cercando di fare più in fretta possibile. “Oh non preoccuparti, sei proprio gentile” Una voce diversa da tutte quelle che Faruk aveva sentito nella sua vita, soave ma pungete.
+        Alzando lo sguardo vide una bellissima Tabaxi rossa che sorrideva sotto ad un particolare velo bluastro. “ Ma lo sa che mi ricordi qualcuno?” il gufetto imbambolato pensò soltanto “ehy ma sono io che ti conosco, tu non puoi sapere chi sono…. quella famosa sei tu” ma non riuscì a proferire parola. Era Yamaya, la ballerina della famiglia Sofos, una delle artiste emergenti che dominava la scena artistica a Or. 
+        “Tranquillo, guarda che non ti mangio mica” sorrise sorniona.
+        “Scusami tanto per averti fatto cadere questi spartiti… non… pensavo che suonassi anche!”
+        “oh ma non sono per me, ma per il mio…. amico speciale! Per farti perdonare dovresti accompagnarmi al mio appuntamento… sono tutta sola e non lasceresti mai una donzella in difficoltà vero?” 
+        Faruk leggermente stordito dall’accaduto non riuscì a proferire altre parole che “Hai ragione”.
+        La piccola passeggiata fu veloce, raggiungendo proprio il luogo in cui il gufetto sarebbe dovuto andare: la scuola di musica.
+        “Gli assomigli molto… mi fa piacere pensare che la sua voce possa essere simile alla tua” disse Yamaya. Faruk in un baleno comprese: l’amico speciale era Leeto, il suo amato fratello e Yamaya era qui non per caso, ma forse per amore.
+
+    Lupumis dormiente - Faruk & Luxos
+        Osservandosi in giro, Faruk cerca una faccia conosciuta a cui affiancarsi in questo locale ricercato. Tra i vari personaggi stravaganti incrocia lo sguardo con quel ragazzo che oggi alla forgia osservava serioso lo scambio di merci tra il Presagio e quella coppia di mezzelfi delle terre della notte: il suo nome era Luxos e il gufo se lo ricordava bene.
+        Luxos era seduto al bancone, solo a sorseggiare una strana bevanda dai colori improbabili e con un gesto del capo e un sorriso invitò quel ragazzo palesemente fuori posto a sedersi vicino a lui.
+        “Si vede che non frequenti questi luoghi, ti stanno guardando tutti” disse il mezzelfo ridacchiando. “Forse hai ragione ma volevo tanto provare tanto il famoso “Lupumis dormiente” che fanno qui. Ora sinceramente non so bene cosa fare.” disse Faruk guardandosi attorno stupito.
+        “AHAHAHAAH ora basta ordinarlo!” Luxos non riuscì a trattenersi vedendo la strana ingenuità del ragazzo.
+        Così Faruk e Luxos iniziarono a parlare delle proprie vite, dei propri pensieri e un po’ anche del loro passato. Faruk era un po’ titubante ma finalmente potè raccontare della sua famiglia che viveva fuori dalle mura della città. Lui era riuscito a trovare un lavoro come aiutante di un Presagio che lavorava alla La forgia degli Oracoli tramite un contatto fortuito.
+        Una vita molto diversa da quella di Luxus, Scintilla di Fulramin dall’occhio draconico, nato nelle terre della notte giunse qui a Yeula per ereditare ciò che era suo, un posto tra i migliori, un posto donatogli dalla Dea.
+        Luxus però era curioso: “Non ti senti… strano a stare tutto il giorno con i Presagi? non hai… paura?” “No… perché, dovrei averne?” chiede preoccupato Faruk “Possiamo dire che non tutti i presagi sono scelti dalla Dea… alcuni vengono presi da… altro”
+        Faruk incredulo senza neanche esitare “da che cosa??” “Dai Demoni, loro attirano la sventura… attirano il male… e fanno soffrire gli innocenti… come Saphine…”
+        Da qui Luxos racconta la storia di sua sorella, uccisa da un Presagio che impazzito a causa di un male latente dentro di lui. La bambina morì a soli 10 anni e non potè mai crescere in un mondo così bello e giusto.
+        Queste storie portarono i due ragazzi a rincontrarsi ogni tanto, davanti ad un bicchiere di Lupumis dormiente.
